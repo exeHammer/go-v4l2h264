@@ -1,4 +1,4 @@
--Thanks to github.com/blackjack/webcam!
--This project is a demo to launch up v4l2 and ffmpeg using go.
--The main program read stream from v4l2 and encode it to h264 then write to file.
--Tips: modidy goav to add the missing ffmpeg api wrapper. 
+- Thanks to github.com/blackjack/webcam!
+- This project is a demo to launch up v4l2 and ffmpeg using go.
+- The main program read stream from v4l2 and encode it to h264 then write to file.
+- Tips: modidy goav to add the missing ffmpeg api wrapper. 
